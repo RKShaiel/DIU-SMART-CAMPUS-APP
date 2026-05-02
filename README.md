@@ -19,13 +19,6 @@ University life often involves navigating multiple websites and portals to find 
 *   **Architecture**: Optimized for scalability and clean state management.
 *   **Deployment**: Production-ready APK built and tested on physical Android devices.
 
-## 📸 Preview
-| Home Screen | Navigation Drawer | About Screen |
-| :--- | :--- | :--- |
-| ![Home](https://via.placeholder.com/200x400.png?text=Home+Screen) | ![Drawer](https://via.placeholder.com/200x400.png?text=Drawer+Menu) | ![About](https://via.placeholder.com/200x400.png?text=Support+Page) |
-*(Replace these placeholders with your actual screenshots from the "frontend/build" folder)*
-
-## ⚙️ Installation
 
 1. **Clone the Repo**
    ```bash
